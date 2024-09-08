@@ -1,0 +1,136 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.head {
+
+    display: flex;
+    margin-top: 20px;
+}
+
+/* .pov {
+    background-color: blue;
+    width: 219.54px;
+    height: 36px;
+    margin-left: 50px;
+    display: inline-block;
+    margin-top: -5px;
+
+
+} */
+
+.ic {
+    height: 36px;
+    width: 36px;
+    margin-left: 200px;
+
+}
+
+.tiv {
+    height: 38px;
+    width: 179.62px;
+    display: inline-block;
+
+
+
+
+}
+
+.nav {
+
+    width: fit-content;
+    padding-left: 300px;
+    margin-top: 10px;
+    font-family: "Space Grotesk", sans-serif;
+
+
+}
+
+.nav-item {
+    display: inline;
+    gap: 50px;
+    padding-left: 40px;
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+.nav-item1 {
+    display: inline;
+    gap: 50px;
+    margin-left: 40px;
+    padding: 5px;
+
+    font-size: 25px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+.al {
+
+    margin-top: -36px;
+    margin-left: 250px;
+    height: 36px;
+}
+
+.pov {
+    height: 35px
+}
+
+.sec {
+
+    margin-top: 50px;
+}
+
+.par {
+
+    width: 550px;
+    margin-top: 10px;
+    display: inline-block;
+    margin-left: 150px;
+}
+
+.par h1 {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.par1 {
+
+    width: 550px;
+    position: relative;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 150px;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.book {
+
+    width: fit-content;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.book button {
+    padding: 20px 35px 20px 35px;
+    font-size: 14px;
+    gap: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 14px;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.mic {
+
+    width: fit-content;
+    margin-left: 1000px;
+    margin-top: -400px;
+}
+
+.mic img {
+    height: 400px;
+    width: 600px;
+}
